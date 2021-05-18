@@ -56,7 +56,7 @@
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">1</stringProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">100</stringProp>
+        <stringProp name="ThreadGroup.num_threads">200</stringProp>
         <stringProp name="ThreadGroup.ramp_time">60</stringProp>
         <longProp name="ThreadGroup.start_time">1370726934000</longProp>
         <longProp name="ThreadGroup.end_time">1370726934000</longProp>
@@ -9691,7 +9691,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">/Users/anhtran/Desktop/projects/central-proxy-autoscaling/tp-new-nav-staging-results-100.xml</stringProp>
+          <stringProp name="filename">/Users/anhtran/Desktop/projects/central-proxy-autoscaling/tp-new-nav-staging-results-200.xml</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
@@ -9731,7 +9731,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">/Users/anhtran/Desktop/projects/central-proxy-autoscaling/tp-new-nav-staging-summary-100.xml</stringProp>
+          <stringProp name="filename">/Users/anhtran/Desktop/projects/central-proxy-autoscaling/tp-new-nav-staging-summary-200.xml</stringProp>
         </ResultCollector>
         <hashTree/>
         <RecordingController guiclass="RecordController" testclass="RecordingController" testname="Recording Controller" enabled="false"/>
